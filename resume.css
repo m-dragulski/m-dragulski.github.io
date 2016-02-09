@@ -1,0 +1,44 @@
+body{
+	background-color: #e5fff9;
+	}
+
+h1 {color: #006666;
+	font-family: 'Courier New', Courier, 'Lucida Sans Typwriter', 'Lucidia Typwriter', monospace;
+	text-align: center;
+	padding: 20px;
+	background-color: #ccffef;
+	}
+
+
+h3{
+	color: #009973;
+	font-family: 'Courier New', Courier, 'Lucida Sans Typwriter', 'Lucidia Typwriter', monospace;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	background-color: white;
+	}
+
+h4{
+	font-family: 'Courier New', Courier, 'Lucida Sans Typwriter', 'Lucidia Typwriter', monospace;
+	color: #ff6666;
+	text-align: center;
+}
+
+
+p { margin: 0px;
+	text-align: center; 
+	color: #006666;
+	font-family: 'Courier New', Courier, 'Lucida Sans Typwriter', 'Lucidia Typwriter', monospace;
+}
+
+
+ul{
+	text-align: center;
+	list-style-position: inside;
+	font-family: 'Courier New', Courier, 'Lucida Sans Typwriter', 'Lucidia Typwriter', monospace;
+
+}
+
+img {max-width: 600px;
+	height: auto;
+	}
